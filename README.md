@@ -1,2 +1,2 @@
 # rosni_cad
-Here you'll find the cad parts, draws and stl files of every part of the ROSNI.
+Here you'll find the CAD parts, draws and .stl files of all the ROSNI pats.
